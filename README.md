@@ -27,7 +27,7 @@ Every day, I have been driven to push the boundaries of mobile, discovering new 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I'm Rissmon, a mobile application developer 👨‍💻 working remotely since 2018 🚀  
   
@@ -41,9 +41,8 @@ Every day, I have been driven to push the boundaries of mobile, discovering new 
 - ⚡ Fun fact: I keep night shift switched on at all times   
 
 
-</td><td valign="top" width="50%">
-
-</td></tr></table>  
+</td>
+</tr></table>  
 
 <br/>  
 

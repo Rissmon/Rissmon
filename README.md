@@ -43,11 +43,6 @@ Every day, I have been driven to push the boundaries of mobile, discovering new 
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
@@ -100,6 +95,3 @@ Every day, I have been driven to push the boundaries of mobile, discovering new 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

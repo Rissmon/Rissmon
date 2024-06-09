@@ -34,10 +34,10 @@ Every day, I have been driven to push the boundaries of mobile, discovering new 
 - 🌱 I’m currently learning Java Springboot and Ionic  
   
 
-- ❓ Ask me about anything related to Flutter and Native android Development  
+- ❓ Ask me about anything related to Flutter and Native Android Development  
   
 
-- ⚡ Fun fact: I keep night shift switched on at all times   
+- ⚡ Fun fact: I keep the night shift switched on at all times   
 
 
 </td>
